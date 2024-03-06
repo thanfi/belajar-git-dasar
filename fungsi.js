@@ -1,3 +1,4 @@
 console.log('anak haram');
-console.log('anak dajjal');
-console.log('anak anjing');
+
+const add = (a, b) => a + b;
+console.log(add(1, 2))
