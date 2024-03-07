@@ -1,1 +1,0 @@
-console.log('gatau lagi buat apa')
