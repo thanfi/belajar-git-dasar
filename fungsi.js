@@ -11,3 +11,6 @@ console.log(multiply(2, 2))
 
 const divide = (a, b) => a / b
 console.log(divide(4, 2))
+
+const MathNumber = (x, z) => x * z
+console.log(MathNumber(6, 2))
