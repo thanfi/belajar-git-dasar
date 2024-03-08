@@ -14,3 +14,5 @@ console.log(divide(4, 2))
 
 const MathNumber = (x, z) => x * z
 console.log(MathNumber(6, 2))
+
+console.log(add(5, 5))
